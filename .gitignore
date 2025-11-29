@@ -1,0 +1,4 @@
+autobk.ini
+*.log
+*.log.*
+__pycache__
